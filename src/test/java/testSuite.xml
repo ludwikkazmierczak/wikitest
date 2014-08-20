@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="default" verbose="1">
+	<test name="default">
+		<classes>
+			<class name="testcases.LogIn"/>
+			<class name="testcases.AddVideo"/>
+		</classes>
+	</test>
+</suite>
